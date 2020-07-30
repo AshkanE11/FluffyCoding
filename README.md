@@ -1,3 +1,3 @@
 # FluffyCoding
 
-![](http://i.imgur.com/OUkLi.gif)
+![](https://github.com/AshkanE11/FluffyCoding/blob/master/FluffyCoding.gif)
